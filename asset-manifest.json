@@ -1,17 +1,15 @@
 {
   "files": {
     "main.css": "/LazyCows/static/css/main.36e4b445.css",
-    "main.js": "/LazyCows/static/js/main.3244b92c.js",
-    "static/js/787.53ee03d3.chunk.js": "/LazyCows/static/js/787.53ee03d3.chunk.js",
+    "main.js": "/LazyCows/static/js/main.f3ef5110.js",
     "static/media/normGif.gif": "/LazyCows/static/media/normGif.92fdea606dfdb3405979.gif",
     "static/media/Candy Beans.otf": "/LazyCows/static/media/Candy Beans.41985c9ea91dd3a50e29.otf",
     "index.html": "/LazyCows/index.html",
     "main.36e4b445.css.map": "/LazyCows/static/css/main.36e4b445.css.map",
-    "main.3244b92c.js.map": "/LazyCows/static/js/main.3244b92c.js.map",
-    "787.53ee03d3.chunk.js.map": "/LazyCows/static/js/787.53ee03d3.chunk.js.map"
+    "main.f3ef5110.js.map": "/LazyCows/static/js/main.f3ef5110.js.map"
   },
   "entrypoints": [
     "static/css/main.36e4b445.css",
-    "static/js/main.3244b92c.js"
+    "static/js/main.f3ef5110.js"
   ]
 }
