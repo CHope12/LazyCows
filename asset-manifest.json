@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.527e9085.css",
-    "main.js": "./static/js/main.5c7d5e64.js",
-    "static/media/normGif.gif": "./static/media/normGif.92fdea606dfdb3405979.gif",
-    "static/media/Candy Beans.otf": "./static/media/Candy Beans.41985c9ea91dd3a50e29.otf",
-    "index.html": "./index.html",
-    "main.527e9085.css.map": "./static/css/main.527e9085.css.map",
-    "main.5c7d5e64.js.map": "./static/js/main.5c7d5e64.js.map"
+    "main.css": "/LazyCows/static/css/main.4aee86b1.css",
+    "main.js": "/LazyCows/static/js/main.5df7f5d0.js",
+    "static/media/normGif.gif": "/LazyCows/static/media/normGif.92fdea606dfdb3405979.gif",
+    "static/media/Candy Beans.otf": "/LazyCows/static/media/Candy Beans.41985c9ea91dd3a50e29.otf",
+    "index.html": "/LazyCows/index.html",
+    "main.4aee86b1.css.map": "/LazyCows/static/css/main.4aee86b1.css.map",
+    "main.5df7f5d0.js.map": "/LazyCows/static/js/main.5df7f5d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.527e9085.css",
-    "static/js/main.5c7d5e64.js"
+    "static/css/main.4aee86b1.css",
+    "static/js/main.5df7f5d0.js"
   ]
 }
